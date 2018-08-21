@@ -4,9 +4,9 @@ You are expected to attend every class. Your presence and active discussion at a
 
 | Number of absences | Penalty             |
 | ------------------ | ------------------- |
-| 4                  | 33 point deduction  |
-| 5                  | 100 point deduction |
-| 6+                 | 200 point deduction |
+| 3                  | 33 point deduction  |
+| 4                  | 100 point deduction |
+| 5+                 | 200 point deduction |
 
 If you must miss a class because of a college-sanctioned activity, you must notify me in advance of the class and make all necessary arrangements. If you miss class for serious medical problems, or other extenuating circumstances resulting in your being absent from class for an extended period of time, you should contact the Office of Academic Affairs in addition to notifying me. 
 
