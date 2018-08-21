@@ -44,7 +44,7 @@ Students are evaluated across several areas, as described in the table below. Pl
 | 9. Storytelling | 10 |
 | 10. Color correction, black and white, &amp; legal/ethical issues | 10 |
 
-| Exams |   |
+| Exams |   |   |
 | --- | --- | --- |
 | 1. Midterm exam | 100 |
 | 2. Cumulative final exam | 150 |
@@ -60,7 +60,7 @@ Students are evaluated across several areas, as described in the table below. Pl
 | 9. Color correction | 50 |
 | 10. Environmental portrait | 50 |
 
-| Final project |   |
+| Final project |   |   |
 | --- | --- | --- |
 | 1. Photography portfolio | 150 |
 | Total | 1,000 |
