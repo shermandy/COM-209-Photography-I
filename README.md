@@ -17,7 +17,7 @@ By the end of this course, you will have a practical understanding of the tools 
 | Upon successful completion of this course, the student should be able to: | Observable outcome | Dept. objective |
 | --- | --- | --- |
 | 1. Explain how critical parts of a digital camera function | Quiz 3, 4, 5<br/>Exam 1, 2 | 2a, 2b |
-| 2. Summarize the history and impact of photography as a visual medium | Quiz 1Exam 1, 2 | 12a, 12c |
+| 2. Summarize the history and impact of photography as a visual medium | Quiz 1<br/>Exam 1, 2 | 12a, 12c |
 | 3. Explain the basic concepts of image capturing | Quiz 2, 3, 4, 5, 6<br/>Exam 1, 2 | 2a, 2b |
 | 4. Explain the basic concepts of digital retouching | Quiz 8, 10<br/>Exam 2 | 2a, 2b |
 | 5. Explain the basic concepts of outputting digital photographs | Quiz 3, 10<br/>Exam 2 | 2a, 2b |
@@ -48,6 +48,7 @@ Students are evaluated across several areas, as described in the tables below. P
 | ---                        | --- |
 | 1. Midterm exam            | 100 |
 | 2. Cumulative final exam   | 150 |
+
 | Assignments                |     |
 | 1. Composition             | 50  |
 | 2. Shutter speed **\***    | 50  |
