@@ -1,11 +1,8 @@
 Hello! This repository serves as the home for my Fall 2018 photography course, COM 209. I am an Associate Professor of Communication at Waynesburg University. You can [view my website](http://shr.mn) for more information about my background.
 
-| Instructor | Dr. Chad Sherman, Ph.D. |
-| --- | --- |
-| E-mail | csherman@waynesburg.edu |
-| Phone | 724-852-3203 |
-| Office | Buhl Hall, 408A |
-| Hours | MWF 8-9am, 10-11amMW 2-3pmTR 8-9:30am, 1-2:30pmAppts: calendly.com/drsherman |
+## Contact information
+
+Send me a message on [Twitter](https://twitter.com/shermandy) or book an in-person appointment on [calend.ly](https://calendly.com/drsherman).
 
 ## Course Description
 
