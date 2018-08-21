@@ -62,6 +62,8 @@ Students are evaluated across several areas, as described in the tables below. P
 | 9. Color correction        | 50  |
 | 10. Environmental portrait | 50  |
 
+**\*** indicates that an SLR camera is required.
+
 | Final project            |     |
 | ---                      | --- |
 | 1. Photography portfolio | 150 |
