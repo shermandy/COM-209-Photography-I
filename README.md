@@ -50,6 +50,7 @@ Students are evaluated across several areas, as described in the tables below. P
 | 2. Cumulative final exam   | 150 |
 
 | Assignments                |     |
+| ---                        | --- |
 | 1. Composition             | 50  |
 | 2. Shutter speed **\***    | 50  |
 | 3. Aperture **\***         | 50  |
