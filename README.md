@@ -16,7 +16,7 @@ By the end of this course, you will have a practical understanding of the tools 
 
 | Upon successful completion of this course, the student should be able to: | Observable outcome | Dept. objective |
 | --- | --- | --- |
-| 1. Explain how critical parts of a digital camera function | Quiz 3, 4, 5Exam 1, 2 | 2a, 2b |
+| 1. Explain how critical parts of a digital camera function | Quiz 3, 4, 5<br/>Exam 1, 2 | 2a, 2b |
 | 2. Summarize the history and impact of photography as a visual medium | Quiz 1Exam 1, 2 | 12a, 12c |
 |
 1. Explain the basic concepts of image capturing
