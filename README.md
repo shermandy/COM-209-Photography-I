@@ -4,25 +4,20 @@ Hello! This repository serves as the home for my Fall 2018 photography course, C
 
 Send me a message on [Twitter](https://twitter.com/shermandy) or book an in-person appointment on [calend.ly](https://calendly.com/drsherman).
 
-## Course Description
+## Course information
 
-The basic study of photography as an art form and a medium of communication. Emphasis will be on visualization, composition, and aesthetics of photography. An introduction to the operation of the camera and to electronic imaging will be covered.
+This course is a basic study of photography as an art form and a medium of communication. Emphasis will be placed on visualization, composition, and aesthetics of photography. An introduction to the operation of the camera and to electronic imaging will be covered also.
 
-## Supplies
+### Course goal
 
-- --Camera with manual controls for shutter speed, aperture and ISO
-- --Dropbox account
+By the end of this course, you will have a practical understanding of the tools required for capturing, editing, and presenting aesthetically-pleasing photographs. You will also have an appreciation for photography as an artform and a possible career.
 
-## Course objectives
+### Course objectives
 
 | Upon successful completion of this course, the student should be able to: | Observable outcome | Dept. objective |
 | --- | --- | --- |
-|
-1. Explain how critical parts of a digital camera function
- | Quiz 3, 4, 5Exam 1, 2 | 2a, 2b |
-|
-1. Summarize the history and impact of photography as a visual medium
- | Quiz 1Exam 1, 2 | 12a, 12c |
+| 1. Explain how critical parts of a digital camera function | Quiz 3, 4, 5Exam 1, 2 | 2a, 2b |
+| 2. Summarize the history and impact of photography as a visual medium | Quiz 1Exam 1, 2 | 12a, 12c |
 |
 1. Explain the basic concepts of image capturing
  | Quiz 2, 3, 4, 5, 6Exam 1, 2 | 2a, 2b |
@@ -47,6 +42,13 @@ The basic study of photography as an art form and a medium of communication. Emp
 |
 1. Summarize the legal and ethical implications of photography and digital manipulation
  | Quiz 10Exam 2 | 1a, 10a, 10b, 10c, 14 |
+
+## Supplies
+
+- --Camera with manual controls for shutter speed, aperture and ISO
+- --Dropbox account
+
+
 
 ## Observable outcomes
 
