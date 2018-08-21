@@ -43,6 +43,7 @@ Students are evaluated across several areas, as described in the table below. Pl
 | 8. Tone correction | 10 |
 | 9. Storytelling | 10 |
 | 10. Color correction, black and white, &amp; legal/ethical issues | 10 |
+
 | Exams |   |
 | --- | --- | --- |
 | 1. Midterm exam | 100 |
@@ -58,6 +59,7 @@ Students are evaluated across several areas, as described in the table below. Pl
 | 8. Tone correction | 50 |
 | 9. Color correction | 50 |
 | 10. Environmental portrait | 50 |
+
 | Final project |   |
 | --- | --- | --- |
 | 1. Photography portfolio | 150 |
