@@ -29,60 +29,64 @@ By the end of this course, you will have a practical understanding of the tools 
 
 ### Learning outcomes
 
-Students are evaluated across several areas, as described in the table below. Please realize that attendance penalties are subtracted from the final total.
+Students are evaluated across several areas, as described in the tables below. Please realize that attendance penalties are subtracted from the final total. There are 1,000 total points in the class.
 
-| Quizzes | Points |
-| --- | --- |
-| 1. Finding photographs | 10 |
-| 2. Composition | 10 |
-| 3. Shutter speed | 10 |
-| 4. Aperture | 10 |
-| 5. ISO &amp; Light | 10 |
-| 6. Macro | 10 |
-| 7. Photojournalism | 10 |
-| 8. Tone correction | 10 |
-| 9. Storytelling | 10 |
-| 10. Color correction, misc. | 10 |
+| Quizzes                     | Points |
+| ---                         | ---    |
+| 1. Finding photographs      | 10     |
+| 2. Composition              | 10     |
+| 3. Shutter speed            | 10     |
+| 4. Aperture                 | 10     |
+| 5. ISO &amp; Light          | 10     |
+| 6. Macro                    | 10     |
+| 7. Photojournalism          | 10     |
+| 8. Tone correction          | 10     |
+| 9. Storytelling             | 10     |
+| 10. Color correction, misc. | 10     |
 
-| Exams |   |
-| --- | --- |
-| 1. Midterm exam | 100 |
-| 2. Cumulative final exam | 150 |
-| Assignments |   |
-| 1. Composition | 50 |
-| 2. Shutter speed **\*** | 50 |
-| 3. Aperture **\*** | 50 |
-| 4. Light **\*** | 50 |
-| 5. Macro | 50 |
-| 6. Event **\*** | 50 |
-| 7. Story | 50 |
-| 8. Tone correction | 50 |
-| 9. Color correction | 50 |
-| 10. Environmental portrait | 50 |
+| Exams                      |     |
+| ---                        | --- |
+| 1. Midterm exam            | 100 |
+| 2. Cumulative final exam   | 150 |
+| Assignments                |     |
+| 1. Composition             | 50  |
+| 2. Shutter speed **\***    | 50  |
+| 3. Aperture **\***         | 50  |
+| 4. Light **\***            | 50  |
+| 5. Macro                   | 50  |
+| 6. Event **\***            | 50  |
+| 7. Story                   | 50  |
+| 8. Tone correction         | 50  |
+| 9. Color correction        | 50  |
+| 10. Environmental portrait | 50  |
 
-| Final project |   |
-| --- | --- |
+| Final project            |     |
+| ---                      | --- |
 | 1. Photography portfolio | 150 |
-| Total | 1,000 |
 
-## Supplies
-
-- --Camera with manual controls for shutter speed, aperture and ISO
-- --Dropbox account
-
-
-
-
+### WU grading scale
 
 Grades will be assigned according to the following scale:
 
-| 93-100% | A |   | 73-77% | C |
-| --- | --- | --- | --- | --- |
-| 90-92% | A- |   | 70-72% | C- |
-| 88-89% | B+ |   | 68-69% | D+ |
-| 83-87% | B |   | 63-67% | D |
-| 80-82% | B- |   | 60-62% | D- |
-| 78-79% | C+ |   | 0-59% | F |
+| Percent earned | Letter grade |
+| -------------- | ------------ |
+| 93-100%        | A            | 
+| 90-92%         | A-           |
+| 88-89%         | B+           |
+| 83-87%         | B            |
+| 80-82%         | B-           |
+| 78-79%         | C+           |
+| 73-77%         | C            |
+| 70-72%         | C-           |
+| 68-69%         | D+           |
+| 63-67%         | D            |
+| 60-62%         | D-           |
+| 0-59%          | F            |
+
+### Supplies
+
+* Camera with manual controls for shutter speed, aperture and ISO
+* [Dropbox](https://dropbox.com) account
 
 ## Course Policies
 
