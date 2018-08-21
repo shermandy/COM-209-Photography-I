@@ -33,78 +33,32 @@ Students are evaluated across several areas, as described in the table below. Pl
 
 | Quizzes | Points |
 | --- | --- |
-|
-1. Finding photographs
- | 10 |
-|
-1. Composition
- | 10 |
-|
-1. Shutter speed
- | 10 |
-|
-1. Aperture
- | 10 |
-|
-1. ISO &amp; Light
- | 10 |
-|
-1. Macro
- | 10 |
-|
-1. Photojournalism
- | 10 |
-|
-1. Tone correction
- | 10 |
-|
-1. Storytelling
- | 10 |
-|
-1. Color correction, black and white, &amp; legal/ethical issues
- | 10 |
+| 1. Finding photographs | 10 |
+| 2. Composition | 10 |
+| 3. Shutter speed | 10 |
+| 4. Aperture | 10 |
+| 5. ISO &amp; Light | 10 |
+| 6. Macro | 10 |
+| 7. Photojournalism | 10 |
+| 8. Tone correction | 10 |
+| 9. Storytelling | 10 |
+| 10. Color correction, black and white, &amp; legal/ethical issues | 10 |
 | Exams |   |
-|
-1. Midterm exam
- | 100 |
-|
-1. Cumulative final exam
- | 150 |
+| 1. Midterm exam | 100 |
+| 2. Cumulative final exam | 150 |
 | Assignments |   |
-|
-1. Composition
- | 50 |
-|
-1. Shutter speed **\***
- | 50 |
-|
-1. Aperture **\***
- | 50 |
-|
-1. Light **\***
- | 50 |
-|
-1. Macro
- | 50 |
-|
-1. Event **\***
- | 50 |
-|
-1. Story
- | 50 |
-|
-1. Tone correction
- | 50 |
-|
-1. Color correction
- | 50 |
-|
-1. Environmental portrait
- | 50 |
+| 1. Composition | 50 |
+| 2. Shutter speed **\*** | 50 |
+| 3. Aperture **\*** | 50 |
+| 4. Light **\*** | 50 |
+| 5. Macro | 50 |
+| 6. Event **\*** | 50 |
+| 7. Story | 50 |
+| 8. Tone correction | 50 |
+| 9. Color correction | 50 |
+| 10. Environmental portrait | 50 |
 | Final project |   |
-|
-1. Photography portfolio
- | 150 |
+| 1. Photography portfolio | 150 |
 | Total | 1,000 |
 
 ## Supplies
