@@ -94,30 +94,8 @@ Grades will be assigned according to the following scale:
 
 ## Course policies
 
-There are a lot of them. I won't post them here to save people that are forking this repository. If you are a WU student, you can [view them here](COURSE-POLICIES.md).
+There are a lot of them. I won't post them here to save people that are forking this repository. If you are a WU student, you can [view them here](course-policies.md).
 
 ## Class schedule
 
-[View here](CLASS-SCHEDULE.md).
-
-### Tentative Schedule
-
-|   | Activity | Dates | Assign. |
-| --- | --- | --- | --- |
-| 1 | Overview of cameras, DropBox, the photographer&#39;s eye | 1/161/18 | Best photo |
-| 2 | The photographer&#39;s eye, composition | 1/231/25 | Photographic eye |
-| 3 | Composition, shutter speed | 1/302/1 | Composition |
-| 4 | Shutter speed, camera anatomy, aperture | 2/62/8 | Shutter speed |
-| 5 | Aperture, ISO &amp; light | 2/132/15 | Aperture |
-| 6 | ISO &amp; light, slow sync, macro | 2/202/22 | ISO &amp; light |
-| 7 | Macro, mid-term exam | 2/273/1 | Macro |
-| SPRING BREAK |
-| 8 | Photojournalism | 3/133/15 | Choose event, mid-term exam |
-| 9 | Photojournalism, Photo manipulation introduction, Story telling | 3/203/22 | Photojournalism, Basic photo edit |
-| 10 | Storytelling, Tone correction | 3/273/29 | Photojournalism, Story telling |
-| 11 | Tone correction, Color correction | 4/34/5 | Tone correction |
-| 12 | Color correction, Black and white | 4/104/12 | Color correction |
-| 13 | Black and white, Masking | 4/174/19 | Black and white |
-| 14 | Masking, Ethics | 4/244/26 | Masking |
-| 15 | Final exam – 11am | 5/3 |   |
-
+[View here](class-schedule.md).
