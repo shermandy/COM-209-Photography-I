@@ -27,14 +27,7 @@ By the end of this course, you will have a practical understanding of the tools 
 | 9. Employ digital retouching to improve the aesthetics of a photograph for a defined purpose | Assignment 8, 9, 10<br/>Final project | 2a, 2b, 2c, 3a, 3b, 3c, 6 |
 | 10. Summarize the legal and ethical implications of photography and digital manipulation | Quiz 10<br/>Exam 2 | 1a, 10a, 10b, 10c, 14 |
 
-## Supplies
-
-- --Camera with manual controls for shutter speed, aperture and ISO
-- --Dropbox account
-
-
-
-## Observable outcomes
+### Learning outcomes
 
 Students are evaluated across several areas, as described in the table below. Please realize that attendance penalties are subtracted from the final total.
 
@@ -113,6 +106,15 @@ Students are evaluated across several areas, as described in the table below. Pl
 1. Photography portfolio
  | 150 |
 | Total | 1,000 |
+
+## Supplies
+
+- --Camera with manual controls for shutter speed, aperture and ISO
+- --Dropbox account
+
+
+
+
 
 Grades will be assigned according to the following scale:
 
