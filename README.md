@@ -1,11 +1,4 @@
-
-
-# COM 121 Digital Photography I
-
-Fall 2018
-
-Tuesday &amp; Thursday, 9:30-10:45am
-Eberly B22
+Hello! This repository serves as the home for my Fall 2018 photography course, COM 209. I am an Associate Professor of Communication at Waynesburg University. You can [view my website](http://shr.mn) for more information about my background.
 
 | Instructor | Dr. Chad Sherman, Ph.D. |
 | --- | --- |
