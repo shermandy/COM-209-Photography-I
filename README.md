@@ -18,30 +18,14 @@ By the end of this course, you will have a practical understanding of the tools 
 | --- | --- | --- |
 | 1. Explain how critical parts of a digital camera function | Quiz 3, 4, 5<br/>Exam 1, 2 | 2a, 2b |
 | 2. Summarize the history and impact of photography as a visual medium | Quiz 1Exam 1, 2 | 12a, 12c |
-|
-1. Explain the basic concepts of image capturing
- | Quiz 2, 3, 4, 5, 6Exam 1, 2 | 2a, 2b |
-|
-1. Explain the basic concepts of digital retouching
- | Quiz 8, 10Exam 2 | 2a, 2b |
-|
-1. Explain the basic concepts of outputting digital photographs
- | Quiz 3, 10Exam 2 | 2a, 2b |
-|
-1. Employ the critical functions of a digital camera to capture photographs
- | Assignment 1, 2, 3, 4, 5, 6, 7, 10Final project | 2a, 2b, 2c |
-|
-1. Compose aesthetically pleasing photographs
- | Assignment 1, 2, 3, 4, 5, 6, 7, 10Final project | 2a, 2b, 2c, 6 |
-|
-1. Capture aesthetically pleasing photographs for a defined purpose
- | Assignment 1, 2, 3, 4, 5, 6, 7, 10Final project | 2a, 2b, 2c, 3a, 3b, 3c, 6 |
-|
-1. Employ digital retouching to improve the aesthetics of a photograph for a defined purpose
- | Assignment 8, 9, 10Final project | 2a, 2b, 2c, 3a, 3b, 3c, 6 |
-|
-1. Summarize the legal and ethical implications of photography and digital manipulation
- | Quiz 10Exam 2 | 1a, 10a, 10b, 10c, 14 |
+| 3. Explain the basic concepts of image capturing | Quiz 2, 3, 4, 5, 6<br/>Exam 1, 2 | 2a, 2b |
+| 4. Explain the basic concepts of digital retouching | Quiz 8, 10<br/>Exam 2 | 2a, 2b |
+| 5. Explain the basic concepts of outputting digital photographs | Quiz 3, 10<br/>Exam 2 | 2a, 2b |
+| 6. Employ the critical functions of a digital camera to capture photographs | Assignment 1, 2, 3, 4, 5, 6, 7, 10<br/>Final project | 2a, 2b, 2c |
+| 7. Compose aesthetically pleasing photographs | Assignment 1, 2, 3, 4, 5, 6, 7, 10<br/>Final project | 2a, 2b, 2c, 6 |
+| 8. Capture aesthetically pleasing photographs for a defined purpose | Assignment 1, 2, 3, 4, 5, 6, 7, 10<br/>Final project | 2a, 2b, 2c, 3a, 3b, 3c, 6 |
+| 9. Employ digital retouching to improve the aesthetics of a photograph for a defined purpose | Assignment 8, 9, 10<br/>Final project | 2a, 2b, 2c, 3a, 3b, 3c, 6 |
+| 10. Summarize the legal and ethical implications of photography and digital manipulation | Quiz 10<br/>Exam 2 | 1a, 10a, 10b, 10c, 14 |
 
 ## Supplies
 
